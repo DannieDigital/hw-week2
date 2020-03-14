@@ -1,3 +1,20 @@
+# Homework Week 2 Resposive Portolio 
+
+My responsive design is base on a vision I had for my personal website (meetDaielle.co). I started with a sketch then began to build out the designed by utlizing several coding websites as resouces and my prior knowledge of HTML, CSS, and Javascript. 
+
+
+# Directions 
+ I use bootstrap CSS Framework to create a mobile resposive website. I would consider this a MVP for meetDanille.co. 
+
+ I created `index.html`, `portfolio.html` and `contact.html` pages with working links to each page, complete with a unique navbar, a responsive layout (except for my progress graphs, which is a work in progress), and resposive images. Additionally, I included my personalized information. (bio, name, images, links to social media, etc.)
+
+ Agian this is a MVP of my persoanl website that meets the minimum requirements for this assignment. 
+
+
+---------------------------------------------------------------------------------------
+
+
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
