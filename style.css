@@ -83,54 +83,7 @@ body {
     margin: auto;
   }
  
-  .item h4 {
-    font-size: 19px;
-    line-height: 1.375em;
-    font-weight: 400;
-    font-style: italic;
-    margin: 70px 0;
-  }
-  .item span {
-    font-style: normal;
-  }
-  .panel {
-    border: 1px solid #ff9900ff; 
-    border-radius:0 !important;
-    transition: box-shadow 0.5s;
-  }
-  .panel:hover {
-    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-  }
-  .panel-footer .btn:hover {
-    border: 1px solid #ff9900ff;
-    background-color: #fff !important;
-    color: #ff9900ff;
-  }
-  .panel-heading {
-    color: #fff !important;
-    background-color: #ff9900ff !important;
-    padding: 25px;
-    border-bottom: 1px solid transparent;
-    border-top-left-radius: 0px;
-    border-top-right-radius: 0px;
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
-  }
-  .panel-footer {
-    background-color: white !important;
-  }
-  .panel-footer h3 {
-    font-size: 32px;
-  }
-  .panel-footer h4 {
-    color: #aaa;
-    font-size: 14px;
-  }
-  .panel-footer .btn {
-    margin: 15px 0;
-    background-color: #ff9900ff;
-    color: #fff;
-  }
+ /* Nav bar styling */
   .navbar {
     margin-bottom: 0;
     background-color: #ff9900ff;
@@ -154,12 +107,7 @@ body {
     color: #fff !important;
   }
  
- 
-  footer .glyphicon {
-    font-size: 20px;
-    margin-bottom: 20px;
-    color: #ff9900ff;
-  }
+  
   .slideanim {visibility:hidden;}
   .slide {
     animation-name: slide;
@@ -204,6 +152,7 @@ body {
     }
   }
 
+  /* * Progress Chart: code from https://bestjquery.com/tutorial/progress-bar/demo59/ */ 
   .progress{
     width: 150px;
     height: 150px;
@@ -278,7 +227,7 @@ body {
     left: 7.5%;
 }
 
-/* code from https://bestjquery.com/tutorial/progress-bar/demo59/ */
+/* Progress Chart: code from https://bestjquery.com/tutorial/progress-bar/demo59/ */
 .progress.purple .progress-bar{
     border-color: #a64d79ff;
 }
@@ -414,7 +363,7 @@ body {
 /* https://bestjquery.com/tutorial/progress-bar/demo59/ */
 
 
-/* https://codepen.io/colorlib/pen/GOzroL*/
+/* Social Media Icons: https://codepen.io/colorlib/pen/GOzroL*/
 section #services {
   text-align: center;
   transform: translatez(0);

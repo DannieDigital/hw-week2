@@ -3,10 +3,14 @@
 My responsive design is base on a vision I had for my personal website (meetDaielle.co). I started with a sketch then began to build out the designed by utlizing several coding websites as resouces and my prior knowledge of HTML, CSS, and Javascript. 
 
 
-# Directions 
+## Directions 
  I use bootstrap CSS Framework to create a mobile resposive website. I would consider this a MVP for meetDanille.co. 
 
- I created `index.html`, `portfolio.html` and `contact.html` pages with working links to each page, complete with a unique navbar, a responsive layout (except for my progress graphs, which is a work in progress), and resposive images. Additionally, I included my personalized information. (bio, name, images, links to social media, etc.)
+ I created `index.html`, `portfolio.html` and `contact.html` pages with working links to each page, complete with a unique navbar, a responsive layout (except for my progress graphs, which is a work in progress), used html semantics and responsive images. Additionally, I included my personalized information. (bio, name, images, links to social media, etc.)
+
+ ### Validation
+
+Each was page was ran through validator.w3.org. I recieved a warning on the `index.html` page and the `contact.html` page, which I was unable to solve. You can review the warning message at the end of `index.html` and `contact.html` code page. 
 
  Agian this is a MVP of my persoanl website that meets the minimum requirements for this assignment. 
 

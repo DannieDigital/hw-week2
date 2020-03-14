@@ -1,4 +1,4 @@
-// Borrowed code from https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_theme_company_complete_animation
+// Slide theme for about page: Borrowed code from https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_theme_company_complete_animation
 
 $(document).ready(function(){
     // Add smooth scrolling to all links in navbar + footer link
