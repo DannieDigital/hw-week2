@@ -1,4 +1,4 @@
-# Homework Week 2 Resposive Portolio 
+# Homework Week 2 Responsive Portolio 
 
 My responsive design is base on a vision I had for my personal website (meetDaielle.co). I started with a sketch then began to build out the designed by utlizing several coding websites as resouces and my prior knowledge of HTML, CSS, and Javascript. 
 
